@@ -1,0 +1,22 @@
+body {
+  font-family: 'Faustina', serif;
+  margin: 0 auto;
+}
+
+.item {
+  float: left;
+}
+
+.btn-green {
+  background-color: #329999;
+  color: white;
+  margin: 5px 5px 5px 0;
+}
+
+.btn-green:focus {
+  background-color: #006666;
+}
+
+.btn-green:hover {
+  background-color: #006666;
+}
